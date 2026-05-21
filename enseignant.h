@@ -5,7 +5,7 @@
 
 int verifierMotDePasse(void);
 void menuEnseignant(void);
-void creerQCM(void);
+int creerQCM(void);
 void saisirParametresQCM(QCM *qcm);
 void ajouterQuestion(QCM *qcm);
 void modifierQCM(void);
