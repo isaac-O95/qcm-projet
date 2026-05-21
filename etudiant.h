@@ -1,5 +1,5 @@
-#ifndef ELEVE_H
-#define ELEVE_H
+#ifndef ETUDIANT_H
+#define ETUDIANT_H
 
 #include "qcm.h"
 
